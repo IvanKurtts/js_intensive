@@ -1,4 +1,4 @@
-function task1() {
+function task2() {
     let a = +prompt('Введите первое значение');
     let b = +prompt('Введите второе значение');
     
