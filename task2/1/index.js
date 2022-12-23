@@ -1,4 +1,4 @@
-let obj = {name: "Ivan", sizes: {height: 186, weight: 80}, null: null, function: ()=>{return 1}};
+// let obj = {name: "Ivan", sizes: {height: 186, weight: 80}, null: null, function: ()=>{return 1}};
   
 function makeObjectDeepCopy(obj) {
     if (obj === null) return null;
