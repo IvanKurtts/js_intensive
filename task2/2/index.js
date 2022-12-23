@@ -1,4 +1,4 @@
-let arr = [3, -2, -21, 27, 5, 7]; let a = 9; let b = -11;
+// let arr = [3, -2, -21, 27, 5, 7]; let a = 9; let b = -11;
 
 function selectFromInterval(arr, a, b) {
     let result = [];
