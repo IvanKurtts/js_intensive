@@ -29,6 +29,4 @@ Array.prototype.myFilter = function (callback, thisArg) {
 //   console.log(arr.filter(function(item, index, array) {return item%2 === 0}));
 //   console.log(arr.myFilter(function(item, index, array) {return index === array.length-1}));
 //   console.log(arr.filter(function(item, index, array) {return index === array.length-1}));
-  
-  
-  
+
